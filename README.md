@@ -16,4 +16,4 @@ Incoming feature of this code are:
 2. Model other type of reactor
 3. Post Processing
 
-Please refer and cite this [link](https://iopscience.iop.org/article/10.1088/1742-6596/2048/1/012031) for educational usage.
+Refer and read more in this [link.](https://iopscience.iop.org/article/10.1088/1742-6596/2048/1/012031) for educational usage.
