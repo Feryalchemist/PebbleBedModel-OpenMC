@@ -1,0 +1,1410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="1" name="Kernel_1" volume="7946.6550175138">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="2" name="Kernel_2" volume="144.0184612221901">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="3" name="Kernel_3" volume="430.4188102435909">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="4" name="Kernel_4" volume="796.4657325166573">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="5" name="Kernel_5" volume="179.47755205341116">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="6" name="Kernel_6" volume="548.25209669811">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="7" name="Kernel_7" volume="904.4795784332999">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="8" name="Kernel_8" volume="176.74992968177875">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="9" name="Kernel_9" volume="529.7042645710098">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="10" name="Kernel_10" volume="952.48573217403">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="11" name="Kernel_11" volume="184.93279679667592">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="12" name="Kernel_12" volume="555.8894393386807">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="13" name="Kernel_13" volume="947.5760119050917">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="14" name="Kernel_14" volume="177.84097863043172">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="15" name="Kernel_15" volume="406.41573337322586">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material id="16" name="buffer">
+    <density units="atom/b-cm" value="0.0551511796548" />
+    <nuclide ao="0.9999985557008844" name="C0" />
+    <nuclide ao="2.874154297191068e-07" name="B10" />
+    <nuclide ao="1.1568836858858913e-06" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="17" name="IPYC">
+    <density units="atom/b-cm" value="0.0952611375855" />
+    <nuclide ao="0.9999985557016902" name="C0" />
+    <nuclide ao="2.8741521142791306e-07" name="B10" />
+    <nuclide ao="1.1568830983262874e-06" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="18" name="SiC">
+    <density units="atom/b-cm" value="0.0955194" />
+    <nuclide ao="0.5" name="C0" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="0.4611484" name="Si28" />
+    <nuclide ao="0.0234158" name="Si29" />
+    <nuclide ao="0.0154358" name="Si30" />
+  </material>
+  <material id="19" name="OPYC">
+    <density units="atom/b-cm" value="0.0952611375855" />
+    <nuclide ao="0.9999985557016902" name="C0" />
+    <nuclide ao="2.8741521142791306e-07" name="B10" />
+    <nuclide ao="1.1568830983262874e-06" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="20" name="Matrix">
+    <density units="atom/b-cm" value="0.0867378252748" />
+    <nuclide ao="0.9999985557073905" name="C0" />
+    <nuclide ao="2.87415552799695e-07" name="B10" />
+    <nuclide ao="1.1568770566023553e-06" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="21" name="Dummy">
+    <density units="atom/b-cm" value="0.09225281281161" />
+    <nuclide ao="0.9999998611249932" name="C0" />
+    <nuclide ao="2.7636122111597493e-08" name="B10" />
+    <nuclide ao="1.1123888461760286e-07" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="22" name="Coolant">
+    <density units="atom/b-cm" value="5.110618000000001e-05" />
+    <nuclide ao="0.7622089622350956" name="N14" />
+    <nuclide ao="0.002802236019205505" name="N15" />
+    <nuclide ao="0.213115847578285" name="O16" />
+    <nuclide ao="8.096355090519384e-05" name="O17" />
+    <nuclide ao="0.00042733373939511806" name="O18" />
+    <nuclide ao="1.5263977233281766e-05" name="Ar36" />
+    <nuclide ao="2.878010095843594e-06" name="Ar38" />
+    <nuclide ao="0.004557390756460372" name="Ar40" />
+    <nuclide ao="0.016786509395131467" name="H1" />
+    <nuclide ao="2.614738192523878e-06" name="H2" />
+  </material>
+  <material id="23" name="Coolant">
+    <density units="atom/b-cm" value="5.110618000000001e-05" />
+    <nuclide ao="0.7622089622350956" name="N14" />
+    <nuclide ao="0.002802236019205505" name="N15" />
+    <nuclide ao="0.213115847578285" name="O16" />
+    <nuclide ao="8.096355090519384e-05" name="O17" />
+    <nuclide ao="0.00042733373939511806" name="O18" />
+    <nuclide ao="1.5263977233281766e-05" name="Ar36" />
+    <nuclide ao="2.878010095843594e-06" name="Ar38" />
+    <nuclide ao="0.004557390756460372" name="Ar40" />
+    <nuclide ao="0.016786509395131467" name="H1" />
+    <nuclide ao="2.614738192523878e-06" name="H2" />
+  </material>
+  <material id="24" name="Control_rod">
+    <density units="g/cm3" value="1.7" />
+    <nuclide ao="0.15856" name="B10" />
+    <nuclide ao="0.64144" name="B11" />
+    <nuclide ao="0.2" name="C0" />
+  </material>
+  <material id="25" name="Spacing">
+    <density units="g/cm3" value="7.9" />
+    <nuclide name="Cr50" wo="0.007512635765578316" />
+    <nuclide name="Cr52" wo="0.15065885223468842" />
+    <nuclide name="Cr53" wo="0.017412456396771643" />
+    <nuclide name="Cr54" wo="0.004416055602961638" />
+    <nuclide name="Fe54" wo="0.038446251521784484" />
+    <nuclide name="Fe56" wo="0.6258494109358242" />
+    <nuclide name="Fe57" wo="0.014712110284382341" />
+    <nuclide name="Fe58" wo="0.0019922272580090066" />
+    <nuclide name="Ni58" wo="0.0671977053001696" />
+    <nuclide name="Ni60" wo="0.026775962897315122" />
+    <nuclide name="Ni61" wo="0.0011833590851515138" />
+    <nuclide name="Ni62" wo="0.003834822302393549" />
+    <nuclide name="Ni64" wo="0.001008150414970227" />
+    <nuclide name="Si28" wo="0.009187351728295046" />
+    <nuclide name="Si29" wo="0.0004831750292845674" />
+    <nuclide name="Si30" wo="0.0003294732424203873" />
+    <nuclide name="Mn55" wo="0.02" />
+    <nuclide name="C0" wo="0.001" />
+    <nuclide name="Ti46" wo="0.0006336076205470145" />
+    <nuclide name="Ti47" wo="0.0005838225857754077" />
+    <nuclide name="Ti48" wo="0.005907604178232704" />
+    <nuclide name="Ti49" wo="0.00044257524266635853" />
+    <nuclide name="Ti50" wo="0.00043239037277851525" />
+  </material>
+  <material id="26" name="Caps_n_Joints">
+    <density units="atom/b-cm" value="0.04" />
+    <nuclide ao="0.05845" name="Fe54" />
+    <nuclide ao="0.91754" name="Fe56" />
+    <nuclide ao="0.02119" name="Fe57" />
+    <nuclide ao="0.00282" name="Fe58" />
+  </material>
+  <material id="27" name="Reflector-Block_0">
+    <density units="atom/b-cm" value="0.085107" />
+    <nuclide ao="1.38483868641e-06" name="N14" />
+    <nuclide ao="5.09131359e-09" name="N15" />
+    <nuclide ao="3.8720538609534e-07" name="O16" />
+    <nuclide ao="1.471008531e-10" name="O17" />
+    <nuclide ao="7.764130515599999e-10" name="O18" />
+    <nuclide ao="2.773273512e-11" name="Ar36" />
+    <nuclide ao="5.22898393e-12" name="Ar38" />
+    <nuclide ao="8.28020828095e-09" name="Ar40" />
+    <nuclide ao="9.056273319999999e-08" name="B10" />
+    <nuclide ao="3.6636326679999996e-07" name="B11" />
+    <nuclide ao="3.0499049338188e-08" name="H1" />
+    <nuclide ao="4.750661812e-12" name="H2" />
+    <nuclide ao="0.0851047" name="C0" />
+  </material>
+  <material id="28" name="Reflector-Block_1">
+    <density units="atom/b-cm" value="0.0762416" />
+    <nuclide ao="1.85995194823e-06" name="N14" />
+    <nuclide ao="6.83805177e-09" name="N15" />
+    <nuclide ao="5.200492435257599e-07" name="O16" />
+    <nuclide ao="1.9756875839999998e-10" name="O17" />
+    <nuclide ao="1.0427877158399998e-09" name="O18" />
+    <nuclide ao="3.72474408e-11" name="Ar36" />
+    <nuclide ao="7.0229737000000004e-12" name="Ar38" />
+    <nuclide ao="1.11210295855e-08" name="Ar40" />
+    <nuclide ao="0.0006536854019999999" name="B10" />
+    <nuclide ao="0.0026444245979999996" name="B11" />
+    <nuclide ao="4.0962719472366e-08" name="H1" />
+    <nuclide ao="6.380527634e-12" name="H2" />
+    <nuclide ao="0.072941" name="C0" />
+  </material>
+  <material id="29" name="Reflector-Block_2">
+    <density units="atom/b-cm" value="0.0851485" />
+    <nuclide ao="1.36652601235e-06" name="N14" />
+    <nuclide ao="5.02398765e-09" name="N15" />
+    <nuclide ao="3.8208589646232e-07" name="O16" />
+    <nuclide ao="1.451559388e-10" name="O17" />
+    <nuclide ao="7.661475988799999e-10" name="O18" />
+    <nuclide ao="2.7366108720000003e-11" name="Ar36" />
+    <nuclide ao="5.15985683e-12" name="Ar38" />
+    <nuclide ao="8.170744034450002e-09" name="Ar40" />
+    <nuclide ao="9.060673359999999e-08" name="B10" />
+    <nuclide ao="3.6654126639999997e-07" name="B11" />
+    <nuclide ao="3.009581214813e-08" name="H1" />
+    <nuclide ao="4.68785187e-12" name="H2" />
+    <nuclide ao="0.0851462" name="C0" />
+  </material>
+  <material id="30" name="Reflector-Block_3">
+    <density units="atom/b-cm" value="0.0145778" />
+    <nuclide ao="3.2537178141600006e-05" name="N14" />
+    <nuclide ao="1.196218584e-07" name="N15" />
+    <nuclide ao="9.0974788302462e-06" name="O16" />
+    <nuclide ao="3.456168083e-09" name="O17" />
+    <nuclide ao="1.8242001670799996e-08" name="O18" />
+    <nuclide ao="6.5158752e-10" name="Ar36" />
+    <nuclide ao="1.2285628e-10" name="Ar38" />
+    <nuclide ao="1.945455562e-07" name="Ar40" />
+    <nuclide ao="1.546721088e-08" name="B10" />
+    <nuclide ao="6.257118911999999e-08" name="B11" />
+    <nuclide ao="7.1658238207644e-07" name="H1" />
+    <nuclide ao="1.1161792356e-10" name="H2" />
+    <nuclide ao="0.014535" name="C0" />
+  </material>
+  <material id="31" name="Reflector-Block_4">
+    <density units="atom/b-cm" value="0.0802966" />
+    <nuclide ao="3.5095671923900005e-06" name="N14" />
+    <nuclide ao="1.2902807610000001e-08" name="N15" />
+    <nuclide ao="9.8128396410264e-07" name="O16" />
+    <nuclide ao="3.727936476e-10" name="O17" />
+    <nuclide ao="1.9676422497599997e-09" name="O18" />
+    <nuclide ao="7.028251439999999e-11" name="Ar36" />
+    <nuclide ao="1.3251709099999999e-11" name="Ar38" />
+    <nuclide ao="2.09843657765e-08" name="Ar40" />
+    <nuclide ao="8.54408488e-08" name="B10" />
+    <nuclide ao="3.456431512e-07" name="B11" />
+    <nuclide ao="7.7292860534874e-08" name="H1" />
+    <nuclide ao="1.2039465125999999e-11" name="H2" />
+    <nuclide ao="0.0802916" name="C0" />
+  </material>
+  <material id="32" name="Reflector-Block_5">
+    <density units="atom/b-cm" value="5.11062e-05" />
+    <nuclide ao="3.8953588421600004e-05" name="N14" />
+    <nuclide ao="1.432115784e-07" name="N15" />
+    <nuclide ao="1.08915368671884e-05" name="O16" />
+    <nuclide ao="4.137737806e-09" name="O17" />
+    <nuclide ao="2.1839395005599998e-08" name="O18" />
+    <nuclide ao="7.800835680000001e-10" name="Ar36" />
+    <nuclide ao="1.47084102e-10" name="Ar38" />
+    <nuclide ao="2.3291083233e-07" name="Ar40" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="8.5789437071928e-07" name="H1" />
+    <nuclide ao="1.3362928072e-10" name="H2" />
+    <nuclide ao="0.0" name="C0" />
+  </material>
+  <material id="33" name="Reflector-Block_6">
+    <density units="atom/b-cm" value="0.05727" />
+    <nuclide ao="1.5191947308600001e-05" name="N14" />
+    <nuclide ao="5.58526914e-08" name="N15" />
+    <nuclide ao="4.247703907401e-06" name="O16" />
+    <nuclide ao="1.613719465e-09" name="O17" />
+    <nuclide ao="8.517373134e-09" name="O18" />
+    <nuclide ao="3.042325248e-10" name="Ar36" />
+    <nuclide ao="5.7362787199999996e-11" name="Ar38" />
+    <nuclide ao="9.0835204688e-08" name="Ar40" />
+    <nuclide ao="5.507660879999999e-10" name="B10" />
+    <nuclide ao="2.228073912e-09" name="B11" />
+    <nuclide ao="3.3457888456806e-07" name="H1" />
+    <nuclide ao="5.211543194e-11" name="H2" />
+    <nuclide ao="0.0572501" name="C0" />
+  </material>
+  <material id="34" name="Reflector-Block_7">
+    <density units="atom/b-cm" value="0.0781471" />
+    <nuclide ao="4.45901657317e-06" name="N14" />
+    <nuclide ao="1.639342683e-08" name="N15" />
+    <nuclide ao="1.2467555943415198e-06" name="O16" />
+    <nuclide ao="4.736473668e-10" name="O17" />
+    <nuclide ao="2.4999582916799994e-09" name="O18" />
+    <nuclide ao="8.92960464e-11" name="Ar36" />
+    <nuclide ao="1.68366946e-11" name="Ar38" />
+    <nuclide ao="2.6661267259e-08" name="Ar40" />
+    <nuclide ao="8.31522334e-08" name="B10" />
+    <nuclide ao="3.3638476659999995e-07" name="B11" />
+    <nuclide ao="9.820320345081001e-08" name="H1" />
+    <nuclide ao="1.529654919e-11" name="H2" />
+    <nuclide ao="0.0781408" name="C0" />
+  </material>
+  <material id="35" name="Reflector-Block_8">
+    <density units="atom/b-cm" value="0.0823789" />
+    <nuclide ao="2.58978872747e-06" name="N14" />
+    <nuclide ao="9.52127253e-09" name="N15" />
+    <nuclide ao="7.241125372557599e-07" name="O16" />
+    <nuclide ao="2.750932084e-10" name="O17" />
+    <nuclide ao="1.4519695358399998e-09" name="O18" />
+    <nuclide ao="5.1863123999999996e-11" name="Ar36" />
+    <nuclide ao="9.7787485e-12" name="Ar38" />
+    <nuclide ao="1.54848581275e-08" name="Ar40" />
+    <nuclide ao="8.765811219999999e-08" name="B10" />
+    <nuclide ao="3.546128878e-07" name="B11" />
+    <nuclide ao="5.7036215796126e-08" name="H1" />
+    <nuclide ao="8.884203873999999e-12" name="H2" />
+    <nuclide ao="0.0823751" name="C0" />
+  </material>
+  <material id="36" name="Reflector-Block_9">
+    <density units="atom/b-cm" value="0.0846653" />
+    <nuclide ao="1.5799613244899999e-06" name="N14" />
+    <nuclide ao="5.80867551e-09" name="N15" />
+    <nuclide ao="4.4176116646488e-07" name="O16" />
+    <nuclide ao="1.678268092e-10" name="O17" />
+    <nuclide ao="8.8580672592e-10" name="O18" />
+    <nuclide ao="3.164019192e-11" name="Ar36" />
+    <nuclide ao="5.96573163e-12" name="Ar38" />
+    <nuclide ao="9.44686407645e-09" name="Ar40" />
+    <nuclide ao="5.9163492799999995e-05" name="B10" />
+    <nuclide ao="0.00023934050719999999" name="B11" />
+    <nuclide ao="3.4796179998816e-08" name="H1" />
+    <nuclide ao="5.420001184e-12" name="H2" />
+    <nuclide ao="0.0843647" name="C0" />
+  </material>
+  <material id="37" name="Reflector-Block_10">
+    <density units="atom/b-cm" value="0.0818702" />
+    <nuclide ao="2.8145125378200003e-06" name="N14" />
+    <nuclide ao="1.034746218e-08" name="N15" />
+    <nuclide ao="7.869465733641001e-07" name="O16" />
+    <nuclide ao="2.989641065e-10" name="O17" />
+    <nuclide ao="1.5779625294e-09" name="O18" />
+    <nuclide ao="5.6363388000000004e-11" name="Ar36" />
+    <nuclide ao="1.06272695e-11" name="Ar38" />
+    <nuclide ao="1.68285093425e-08" name="Ar40" />
+    <nuclide ao="3.1001651199999994e-05" name="B10" />
+    <nuclide ao="0.0001254143488" name="B11" />
+    <nuclide ao="6.1985444883126e-08" name="H1" />
+    <nuclide ao="9.655116874e-12" name="H2" />
+    <nuclide ao="0.0817101" name="C0" />
+  </material>
+  <material id="38" name="Reflector-Block_11">
+    <density units="atom/b-cm" value="0.0852898" />
+    <nuclide ao="1.30408557256e-06" name="N14" />
+    <nuclide ao="4.79442744e-09" name="N15" />
+    <nuclide ao="3.646268376279e-07" name="O16" />
+    <nuclide ao="1.385231735e-10" name="O17" />
+    <nuclide ao="7.311391985999999e-10" name="O18" />
+    <nuclide ao="2.6115642480000002e-11" name="Ar36" />
+    <nuclide ao="4.9240824700000005e-12" name="Ar38" />
+    <nuclide ao="7.79739027505e-09" name="Ar40" />
+    <nuclide ao="4.144203439999999e-05" name="B10" />
+    <nuclide ao="0.0001676499656" name="B11" />
+    <nuclide ao="2.8720626352926e-08" name="H1" />
+    <nuclide ao="4.4736470739999996e-12" name="H2" />
+    <nuclide ao="0.085079" name="C0" />
+  </material>
+  <material id="39" name="Reflector-Block_12">
+    <density units="atom/b-cm" value="0.0819562" />
+    <nuclide ao="2.77653217138e-06" name="N14" />
+    <nuclide ao="1.020782862e-08" name="N15" />
+    <nuclide ao="7.7632670255298e-07" name="O16" />
+    <nuclide ao="2.9492957570000005e-10" name="O17" />
+    <nuclide ao="1.5566678713200001e-09" name="O18" />
+    <nuclide ao="5.560278e-11" name="Ar36" />
+    <nuclide ao="1.04838575e-11" name="Ar38" />
+    <nuclide ao="1.66014133625e-08" name="Ar40" />
+    <nuclide ao="7.106044779999999e-06" name="B10" />
+    <nuclide ao="2.8746855219999997e-05" name="B11" />
+    <nuclide ao="6.114897517521e-08" name="H1" />
+    <nuclide ao="9.52482479e-12" name="H2" />
+    <nuclide ao="0.0819167" name="C0" />
+  </material>
+  <material id="40" name="Reflector-Block_13">
+    <density units="atom/b-cm" value="0.0541893" />
+    <nuclide ao="1.50411018868e-05" name="N14" />
+    <nuclide ao="5.52981132e-08" name="N15" />
+    <nuclide ao="4.205544460845e-06" name="O16" />
+    <nuclide ao="1.5977029249999999e-09" name="O17" />
+    <nuclide ao="8.432836229999999e-09" name="O18" />
+    <nuclide ao="3.0121377839999997e-10" name="Ar36" />
+    <nuclide ao="5.6793605099999996e-11" name="Ar38" />
+    <nuclide ao="8.99338926165e-08" name="Ar40" />
+    <nuclide ao="1.144517792e-05" name="B10" />
+    <nuclide ao="4.6300422079999993e-05" name="B11" />
+    <nuclide ao="3.3125840178060003e-07" name="H1" />
+    <nuclide ao="5.15982194e-11" name="H2" />
+    <nuclide ao="0.0541118" name="C0" />
+  </material>
+  <material id="41" name="Reflector-Block_14">
+    <density units="atom/b-cm" value="0.0332431" />
+    <nuclide ao="2.42929876351e-05" name="N14" />
+    <nuclide ao="8.931236489999999e-08" name="N15" />
+    <nuclide ao="6.79239961716e-06" name="O16" />
+    <nuclide ao="2.5804594e-09" name="O17" />
+    <nuclide ao="1.3619923439999999e-08" name="O18" />
+    <nuclide ao="4.86492216e-10" name="Ar36" />
+    <nuclide ao="9.1727699e-11" name="Ar38" />
+    <nuclide ao="1.45252780085e-07" name="Ar40" />
+    <nuclide ao="3.53408438e-08" name="B10" />
+    <nuclide ao="1.4296815620000001e-07" name="B11" />
+    <nuclide ao="5.3501766337026e-07" name="H1" />
+    <nuclide ao="8.333662974e-11" name="H2" />
+    <nuclide ao="0.033211" name="C0" />
+  </material>
+  <material id="42" name="Reflector-Block_15">
+    <density units="atom/b-cm" value="0.088217" />
+    <nuclide ao="1.1179698209600001e-08" name="N14" />
+    <nuclide ao="4.1101790400000005e-11" name="N15" />
+    <nuclide ao="3.1258715617361996e-09" name="O16" />
+    <nuclide ao="1.187530933e-12" name="O17" />
+    <nuclide ao="6.267907330799999e-12" name="O18" />
+    <nuclide ao="2.23883964e-13" name="Ar36" />
+    <nuclide ao="4.22131335e-14" name="Ar38" />
+    <nuclide ao="6.68454029025e-11" name="Ar40" />
+    <nuclide ao="7.11272412e-06" name="B10" />
+    <nuclide ao="2.8773875880000002e-05" name="B11" />
+    <nuclide ao="2.4621564840204e-10" name="H1" />
+    <nuclide ao="3.835159796e-14" name="H2" />
+    <nuclide ao="0.0881811" name="C0" />
+  </material>
+  <material id="43" name="Reflector-Block_16">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="44" name="Reflector-Block_17">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="45" name="Reflector-Block_18">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="46" name="Reflector-Block_19">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="47" name="Reflector-Block_20">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="48" name="Reflector-Block_21">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="49" name="Reflector-Block_22">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="50" name="Reflector-Block_23">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="51" name="Reflector-Block_24">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="52" name="Reflector-Block_25">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="53" name="Reflector-Block_26">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="54" name="Reflector-Block_27">
+    <density units="atom/b-cm" value="0.0800619" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0006864657" name="B10" />
+    <nuclide ao="0.0027770343" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0765984" name="C0" />
+  </material>
+  <material id="55" name="Reflector-Block_28">
+    <density units="atom/b-cm" value="0.0797184" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0797184" name="C0" />
+  </material>
+  <material id="56" name="Reflector-Block_29">
+    <density units="atom/b-cm" value="0.0797184" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0797184" name="C0" />
+  </material>
+  <material id="57" name="Reflector-Block_30">
+    <density units="atom/b-cm" value="0.0797184" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0797184" name="C0" />
+  </material>
+  <material id="58" name="Reflector-Block_31">
+    <density units="atom/b-cm" value="0.0797184" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0797184" name="C0" />
+  </material>
+  <material id="59" name="Reflector-Block_32">
+    <density units="atom/b-cm" value="0.0797184" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0797184" name="C0" />
+  </material>
+  <material id="60" name="Reflector-Block_33">
+    <density units="atom/b-cm" value="0.0795577" />
+    <nuclide ao="2.45473524712e-07" name="N14" />
+    <nuclide ao="9.02475288e-10" name="N15" />
+    <nuclide ao="6.863521984975201e-08" name="O16" />
+    <nuclide ao="2.6074790680000004e-11" name="O17" />
+    <nuclide ao="1.37625359568e-10" name="O18" />
+    <nuclide ao="4.91586288e-12" name="Ar36" />
+    <nuclide ao="9.2688182e-13" name="Ar38" />
+    <nuclide ao="1.4677372553e-09" name="Ar40" />
+    <nuclide ao="0.0006821370119999999" name="B10" />
+    <nuclide ao="0.002759522988" name="B11" />
+    <nuclide ao="5.4061979075904e-09" name="H1" />
+    <nuclide ao="8.420924096000001e-13" name="H2" />
+    <nuclide ao="0.0761157" name="C0" />
+  </material>
+  <material id="61" name="Reflector-Block_34">
+    <density units="atom/b-cm" value="0.0878381" />
+    <nuclide ao="1.78520674649e-07" name="N14" />
+    <nuclide ao="6.56325351e-10" name="N15" />
+    <nuclide ao="4.9914779504898e-08" name="O16" />
+    <nuclide ao="1.896282157e-11" name="O17" />
+    <nuclide ao="1.0008767353199999e-10" name="O18" />
+    <nuclide ao="3.57505776e-12" name="Ar36" />
+    <nuclide ao="6.7407414e-13" name="Ar38" />
+    <nuclide ao="1.0674108681e-09" name="Ar40" />
+    <nuclide ao="9.34705254e-08" name="B10" />
+    <nuclide ao="3.7812647459999995e-07" name="B11" />
+    <nuclide ao="3.9316475898276e-09" name="H1" />
+    <nuclide ao="6.124101724e-13" name="H2" />
+    <nuclide ao="0.0878374" name="C0" />
+  </material>
+  <material id="62" name="Reflector-Block_35">
+    <density units="atom/b-cm" value="0.0579874" />
+    <nuclide ao="1.3363370012500002e-05" name="N14" />
+    <nuclide ao="4.9129987500000005e-08" name="N15" />
+    <nuclide ao="3.7364462951748e-06" name="O16" />
+    <nuclide ao="1.4194906819999998e-09" name="O17" />
+    <nuclide ao="7.4922141432e-09" name="O18" />
+    <nuclide ao="2.67615588e-10" name="Ar36" />
+    <nuclide ao="5.04586945e-11" name="Ar38" />
+    <nuclide ao="7.99024257175e-08" name="Ar40" />
+    <nuclide ao="6.16873716e-08" name="B10" />
+    <nuclide ao="2.495506284e-07" name="B11" />
+    <nuclide ao="2.943091571523e-07" name="H1" />
+    <nuclide ao="4.58428477e-11" name="H2" />
+    <nuclide ao="0.0579696" name="C0" />
+  </material>
+  <material id="63" name="Reflector-Block_36">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="64" name="Reflector-Block_37">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="65" name="Reflector-Block_38">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="66" name="Reflector-Block_39">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="67" name="Reflector-Block_40">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="68" name="Reflector-Block_41">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="69" name="Reflector-Block_42">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="70" name="Reflector-Block_43">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="71" name="Reflector-Block_44">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="72" name="Reflector-Block_45">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="73" name="Reflector-Block_46">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="74" name="Reflector-Block_47">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="75" name="Reflector-Block_48">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="76" name="Reflector-Block_49">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="77" name="Reflector-Block_50">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="78" name="Reflector-Block_51">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="79" name="Reflector-Block_52">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="80" name="Reflector-Block_53">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="81" name="Reflector-Block_54">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="82" name="Reflector-Block_55">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="83" name="Reflector-Block_56">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="84" name="Reflector-Block_57">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="85" name="Reflector-Block_58">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="86" name="Reflector-Block_59">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="87" name="Reflector-Block_60">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="88" name="Reflector-Block_61">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="89" name="Reflector-Block_62">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="90" name="Reflector-Block_63">
+    <density units="atom/b-cm" value="0.0882423" />
+    <nuclide ao="0.0" name="N14" />
+    <nuclide ao="0.0" name="N15" />
+    <nuclide ao="0.0" name="O16" />
+    <nuclide ao="0.0" name="O17" />
+    <nuclide ao="0.0" name="O18" />
+    <nuclide ao="0.0" name="Ar36" />
+    <nuclide ao="0.0" name="Ar38" />
+    <nuclide ao="0.0" name="Ar40" />
+    <nuclide ao="9.390101579999999e-08" name="B10" />
+    <nuclide ao="3.798679842e-07" name="B11" />
+    <nuclide ao="0.0" name="H1" />
+    <nuclide ao="0.0" name="H2" />
+    <nuclide ao="0.0882418" name="C0" />
+  </material>
+  <material id="91" name="Reflector-Block_64">
+    <density units="atom/b-cm" value="0.0881225" />
+    <nuclide ao="5.28990185095e-08" name="N14" />
+    <nuclide ao="1.944814905e-10" name="N15" />
+    <nuclide ao="1.4790724013220599e-08" name="O16" />
+    <nuclide ao="5.619054379e-12" name="O17" />
+    <nuclide ao="2.96579324004e-11" name="O18" />
+    <nuclide ao="1.059353472e-12" name="Ar36" />
+    <nuclide ao="1.99740208e-13" name="Ar38" />
+    <nuclide ao="3.1629290632e-10" name="Ar40" />
+    <nuclide ao="3.33707358e-05" name="B10" />
+    <nuclide ao="0.00013499826419999998" name="B11" />
+    <nuclide ao="1.1650185317520002e-09" name="H1" />
+    <nuclide ao="1.81468248e-13" name="H2" />
+    <nuclide ao="0.0879541" name="C0" />
+  </material>
+  <material id="92" name="Reflector-Block_65">
+    <density units="atom/b-cm" value="0.0881225" />
+    <nuclide ao="5.28990185095e-08" name="N14" />
+    <nuclide ao="1.944814905e-10" name="N15" />
+    <nuclide ao="1.4790724013220599e-08" name="O16" />
+    <nuclide ao="5.619054379e-12" name="O17" />
+    <nuclide ao="2.96579324004e-11" name="O18" />
+    <nuclide ao="1.059353472e-12" name="Ar36" />
+    <nuclide ao="1.99740208e-13" name="Ar38" />
+    <nuclide ao="3.1629290632e-10" name="Ar40" />
+    <nuclide ao="3.33707358e-05" name="B10" />
+    <nuclide ao="0.00013499826419999998" name="B11" />
+    <nuclide ao="1.1650185317520002e-09" name="H1" />
+    <nuclide ao="1.81468248e-13" name="H2" />
+    <nuclide ao="0.0879541" name="C0" />
+  </material>
+  <material id="93" name="Reflector-Block_66">
+    <density units="atom/b-cm" value="0.0881225" />
+    <nuclide ao="5.28990185095e-08" name="N14" />
+    <nuclide ao="1.944814905e-10" name="N15" />
+    <nuclide ao="1.4790724013220599e-08" name="O16" />
+    <nuclide ao="5.619054379e-12" name="O17" />
+    <nuclide ao="2.96579324004e-11" name="O18" />
+    <nuclide ao="1.059353472e-12" name="Ar36" />
+    <nuclide ao="1.99740208e-13" name="Ar38" />
+    <nuclide ao="3.1629290632e-10" name="Ar40" />
+    <nuclide ao="3.33707358e-05" name="B10" />
+    <nuclide ao="0.00013499826419999998" name="B11" />
+    <nuclide ao="1.1650185317520002e-09" name="H1" />
+    <nuclide ao="1.81468248e-13" name="H2" />
+    <nuclide ao="0.0879541" name="C0" />
+  </material>
+  <material id="94" name="Reflector-Block_67">
+    <density units="atom/b-cm" value="0.0525143" />
+    <nuclide ao="8.98425966673e-06" name="N14" />
+    <nuclide ao="3.303033327e-08" name="N15" />
+    <nuclide ao="2.51202642844668e-06" name="O16" />
+    <nuclide ao="9.543287462e-10" name="O17" />
+    <nuclide ao="5.03704280712e-09" name="O18" />
+    <nuclide ao="1.799184864e-10" name="Ar36" />
+    <nuclide ao="3.3923479599999996e-11" name="Ar38" />
+    <nuclide ao="5.3718558034e-08" name="Ar40" />
+    <nuclide ao="3.6066255799999995e-06" name="B10" />
+    <nuclide ao="1.4590274419999998e-05" name="B11" />
+    <nuclide ao="1.9786517967696e-07" name="H1" />
+    <nuclide ao="3.0820323039999994e-11" name="H2" />
+    <nuclide ao="0.0524843" name="C0" />
+  </material>
+  <material id="95" name="Reflector-Block_68">
+    <density units="atom/b-cm" value="0.0881473" />
+    <nuclide ao="1.57847678236e-05" name="N14" />
+    <nuclide ao="5.80321764e-08" name="N15" />
+    <nuclide ao="4.413468546297e-06" name="O16" />
+    <nuclide ao="1.676694105e-09" name="O17" />
+    <nuclide ao="8.849759597999999e-09" name="O18" />
+    <nuclide ao="3.1610534879999996e-10" name="Ar36" />
+    <nuclide ao="5.960139819999999e-11" name="Ar38" />
+    <nuclide ao="9.438009325299999e-08" name="Ar40" />
+    <nuclide ao="3.22873746e-05" name="B10" />
+    <nuclide ao="0.00013061562539999998" name="B11" />
+    <nuclide ao="3.476358507594e-07" name="H1" />
+    <nuclide ao="5.41492406e-11" name="H2" />
+    <nuclide ao="0.0879637" name="C0" />
+  </material>
+  <material id="96" name="Reflector-Block_69">
+    <density units="atom/b-cm" value="0.0582704" />
+    <nuclide ao="1.2276565612900002e-07" name="N14" />
+    <nuclide ao="4.5134387100000003e-10" name="N15" />
+    <nuclide ao="3.4325810366207996e-08" name="O16" />
+    <nuclide ao="1.3040510719999998e-11" name="O17" />
+    <nuclide ao="6.882912307199999e-11" name="O18" />
+    <nuclide ao="2.458511904e-12" name="Ar36" />
+    <nuclide ao="4.63550356e-13" name="Ar38" />
+    <nuclide ao="7.3404193774e-10" name="Ar40" />
+    <nuclide ao="6.200687e-08" name="B10" />
+    <nuclide ao="2.5084312999999996e-07" name="B11" />
+    <nuclide ao="2.7037388541216e-09" name="H1" />
+    <nuclide ao="4.2114587839999996e-13" name="H2" />
+    <nuclide ao="0.0582699" name="C0" />
+  </material>
+  <material id="97" name="Reflector-Block_70">
+    <density units="atom/b-cm" value="0.0728439" />
+    <nuclide ao="1.3230956825200001e-05" name="N14" />
+    <nuclide ao="4.8643174800000004e-08" name="N15" />
+    <nuclide ao="3.6994156161234e-06" name="O16" />
+    <nuclide ao="1.405422581e-09" name="O17" />
+    <nuclide ao="7.4179612955999996e-09" name="O18" />
+    <nuclide ao="2.6496313440000003e-10" name="Ar36" />
+    <nuclide ao="4.9958576600000007e-11" name="Ar38" />
+    <nuclide ao="7.9110478289e-08" name="Ar40" />
+    <nuclide ao="7.74967946e-08" name="B10" />
+    <nuclide ao="3.135062054e-07" name="B11" />
+    <nuclide ao="2.9139261144588e-07" name="H1" />
+    <nuclide ao="4.538855412e-11" name="H2" />
+    <nuclide ao="0.0728262" name="C0" />
+  </material>
+  <material id="98" name="Reflector-Block_71">
+    <density units="atom/b-cm" value="0.0881311" />
+    <nuclide ao="6.805190940770001e-06" name="N14" />
+    <nuclide ao="2.501905923e-08" name="N15" />
+    <nuclide ao="1.90275049726722e-06" name="O16" />
+    <nuclide ao="7.228624173e-10" name="O17" />
+    <nuclide ao="3.81534031548e-09" name="O18" />
+    <nuclide ao="1.36280604e-10" name="Ar36" />
+    <nuclide ao="2.56955935e-11" name="Ar38" />
+    <nuclide ao="4.06895238025e-08" name="Ar40" />
+    <nuclide ao="3.33707358e-05" name="B10" />
+    <nuclide ao="0.00013499826419999998" name="B11" />
+    <nuclide ao="1.4987365504122e-07" name="H1" />
+    <nuclide ao="2.334495878e-11" name="H2" />
+    <nuclide ao="0.0879538" name="C0" />
+  </material>
+  <material id="99" name="Reflector-Block_72">
+    <density units="atom/b-cm" value="0.0848071" />
+    <nuclide ao="1.5191947308600001e-05" name="N14" />
+    <nuclide ao="5.58526914e-08" name="N15" />
+    <nuclide ao="4.247703907401e-06" name="O16" />
+    <nuclide ao="1.613719465e-09" name="O17" />
+    <nuclide ao="8.517373134e-09" name="O18" />
+    <nuclide ao="3.042325248e-10" name="Ar36" />
+    <nuclide ao="5.7362787199999996e-11" name="Ar38" />
+    <nuclide ao="9.0835204688e-08" name="Ar40" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="3.3457888456806e-07" name="H1" />
+    <nuclide ao="5.211543194e-11" name="H2" />
+    <nuclide ao="0.0847872" name="C0" />
+  </material>
+</materials>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<settings>
+  <run_mode>eigenvalue</run_mode>
+  <particles>500</particles>
+  <batches>11</batches>
+  <inactive>1</inactive>
+  <source strength="1.0">
+    <space type="box">
+      <parameters>-90 -90 0 90 90 180</parameters>
+    </space>
+  </source>
+  <material_cell_offsets>false</material_cell_offsets>
+</settings>
