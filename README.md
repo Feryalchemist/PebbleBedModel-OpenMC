@@ -1,6 +1,6 @@
 # Pebble Bed Model-OpenMC
 
-This Code will explain how to use the **Pebble_Model** module. This module was made to create Pebble Bed reactor core model for **OpenMC Monte Carlo Simulation** with discretely modelled Pebble position. The data from DEM model is used as a reference of Pebble position.
+This Code will explain how to use the **Pebble_Model** module. This module was made to create Pebble Bed reactor core model for [**OpenMC Monte Carlo Simulation**](https://github.com/openmc-dev/openmc) with discretely modelled Pebble position. The data from DEM model is used as a reference of Pebble position.
 
 Current feature of this code are:
 
@@ -12,7 +12,7 @@ Current feature of this code are:
 
 Incoming feature of this code are:
 
-1. Ability to control DEM simulation using LIGGGHTS DEM
+1. Ability to control DEM simulation using [LIGGGHTS DEM](https://github.com/CFDEMproject/LIGGGHTS-PUBLIC)
 2. Model other type of reactor
 3. Post Processing
 
