@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="100" name="Kernel_1" volume="7946.6550175138">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="101" name="Kernel_2" volume="144.0184612221901">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="102" name="Kernel_3" volume="430.4188102435909">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="103" name="Kernel_4" volume="796.4657325166573">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="104" name="Kernel_5" volume="179.47755205341116">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="105" name="Kernel_6" volume="548.25209669811">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="106" name="Kernel_7" volume="904.4795784332999">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="107" name="Kernel_8" volume="176.74992968177875">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="108" name="Kernel_9" volume="529.7042645710098">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="109" name="Kernel_10" volume="952.48573217403">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="110" name="Kernel_11" volume="184.93279679667592">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="111" name="Kernel_12" volume="555.8894393386807">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="112" name="Kernel_13" volume="947.5760119050917">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="113" name="Kernel_14" volume="177.84097863043172">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="114" name="Kernel_15" volume="406.41573337322586">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="115" name="Kernel_16" volume="64.91741244485084">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="116" name="Kernel_17" volume="152.20132833708726">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material depletable="true" id="117" name="Kernel_18" volume="193.11566391157308">
+    <density units="atom/b-cm" value="10.4" />
+    <nuclide ao="0.057265428287823564" name="U235" />
+    <nuclide ao="0.27605890523341936" name="U238" />
+    <nuclide ao="0.6666463718234401" name="O16" />
+    <nuclide ao="5.8296268541723384e-06" name="B10" />
+    <nuclide ao="2.3465028462519196e-05" name="B11" />
+  </material>
+  <material id="118" name="buffer">
+    <density units="atom/b-cm" value="0.0551511796548" />
+    <nuclide ao="0.9999985557008844" name="C0" />
+    <nuclide ao="2.874154297191068e-07" name="B10" />
+    <nuclide ao="1.1568836858858913e-06" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="119" name="IPYC">
+    <density units="atom/b-cm" value="0.0952611375855" />
+    <nuclide ao="0.9999985557016902" name="C0" />
+    <nuclide ao="2.8741521142791306e-07" name="B10" />
+    <nuclide ao="1.1568830983262874e-06" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="120" name="SiC">
+    <density units="atom/b-cm" value="0.0955194" />
+    <nuclide ao="0.5" name="C0" />
+    <nuclide ao="0.0" name="B10" />
+    <nuclide ao="0.0" name="B11" />
+    <nuclide ao="0.4611484" name="Si28" />
+    <nuclide ao="0.0234158" name="Si29" />
+    <nuclide ao="0.0154358" name="Si30" />
+  </material>
+  <material id="121" name="OPYC">
+    <density units="atom/b-cm" value="0.0952611375855" />
+    <nuclide ao="0.9999985557016902" name="C0" />
+    <nuclide ao="2.8741521142791306e-07" name="B10" />
+    <nuclide ao="1.1568830983262874e-06" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="122" name="Matrix">
+    <density units="atom/b-cm" value="0.0867378252748" />
+    <nuclide ao="0.9999985557073905" name="C0" />
+    <nuclide ao="2.87415552799695e-07" name="B10" />
+    <nuclide ao="1.1568770566023553e-06" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="123" name="Dummy">
+    <density units="atom/b-cm" value="0.09225281281161" />
+    <nuclide ao="0.9999998611249932" name="C0" />
+    <nuclide ao="2.7636122111597493e-08" name="B10" />
+    <nuclide ao="1.1123888461760286e-07" name="B11" />
+    <nuclide ao="0.0" name="Si28" />
+    <nuclide ao="0.0" name="Si29" />
+    <nuclide ao="0.0" name="Si30" />
+  </material>
+  <material id="124" name="Coolant">
+    <density units="atom/b-cm" value="5.110618000000001e-05" />
+    <nuclide ao="0.7622089622350956" name="N14" />
+    <nuclide ao="0.002802236019205505" name="N15" />
+    <nuclide ao="0.213115847578285" name="O16" />
+    <nuclide ao="8.096355090519384e-05" name="O17" />
+    <nuclide ao="0.00042733373939511806" name="O18" />
+    <nuclide ao="1.5263977233281766e-05" name="Ar36" />
+    <nuclide ao="2.878010095843594e-06" name="Ar38" />
+    <nuclide ao="0.004557390756460372" name="Ar40" />
+    <nuclide ao="0.016786509395131467" name="H1" />
+    <nuclide ao="2.614738192523878e-06" name="H2" />
+  </material>
+</materials>
